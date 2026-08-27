@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Olá, eu sou o Alisson 👋</h1>
+## Olá, eu sou o Alisson 👋
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas (3º período) apaixonado por criar interfaces e experiências no navegador.
